@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, meu nome é Bruno e sou um estudante de Tecnologia da Informação, atualmente me formando em Análise e Desenvolvimento de Sistemas. Com conhecimentos sólidos em programação, busco aprimorar minhas habilidades e desenvolver projetos inovadores. Meu interesse em TI está relacionado à criação de soluções eficientes para problemas complexos e à melhoria da experiência do usuário. Estou sempre buscando aprender e me atualizar em relação às novas tecnologias e tendências da indústria. Sinta-se à vontade para explorar meu perfil e verificar meus projetos e contribuições 👋
 
 <!--
 **BrunoGardrich/BrunoGardrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
