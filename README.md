@@ -1,4 +1,5 @@
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/BrunoGardrich/BrunoGardrich/assets/111443013/1eeabc3f-760a-4ed7-aab7-f2e795a1a1be)
+![Brown Wood Minimalist Profile LinkedIn Banner](https://github.com/BrunoGardrich/BrunoGardrich/assets/111135766/0c136094-585f-495c-b76a-f72c8585a4fb)
+
 <br></br>
 
 <section align="left">
