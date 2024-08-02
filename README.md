@@ -4,7 +4,7 @@
 <br></br>
 
 <section align="left">
-Olá, meu nome é Bruno e sou um estudante de Tecnologia da Informação, atualmente me formando em Análise e Desenvolvimento de Sistemas. Com conhecimentos sólidos em programação, busco aprimorar minhas habilidades e desenvolver projetos inovadores. Meu interesse em TI está relacionado à criação de soluções eficientes para problemas complexos e à melhoria da experiência do usuário. Estou sempre buscando aprender e me atualizar em relação às novas tecnologias e tendências da indústria. Sinta-se à vontade para explorar meu perfil e verificar meus projetos e contribuições.<br> <br>
+Olá, meu nome é Bruno e sou um estudante de Tecnologia da Informação, atualmente formado em Análise e Desenvolvimento de Sistemas. Com conhecimentos sólidos em programação, busco aprimorar minhas habilidades e desenvolver projetos inovadores. Meu interesse em TI está relacionado à criação de soluções eficientes para problemas complexos e à melhoria da experiência do usuário. Estou sempre buscando aprender e me atualizar em relação às novas tecnologias e tendências da indústria. Sinta-se à vontade para explorar meu perfil e verificar meus projetos e contribuições.<br> <br>
 
  - :nerd_face: Atualmente estou finalizando meu curso de Analise e Desenvolvimneto de Sistemas na **SPTech**
  - :desktop_computer: Atualmente aprofundando meus conhecimentos em **Java** | **JavaScript** | **React** | **HTML/CSS**
